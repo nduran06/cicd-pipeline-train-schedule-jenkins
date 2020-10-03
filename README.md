@@ -15,7 +15,7 @@ You can run the app with:
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
 
-## Laboratorio Jenkins Penu
+## Laboratorio 9 Jenkins Penu
 
 ### Natalia Durán Vivas
 2148825
